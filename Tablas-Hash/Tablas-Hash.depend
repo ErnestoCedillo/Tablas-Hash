@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1527734736 source:c:\users\ernesto cedillo\desktop\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<time.h>
+	"TablaHash.h"
+
+1527780174 c:\users\ernesto cedillo\desktop\tablahash.h
+	"NodoHash.h"
+
+1527732698 c:\users\ernesto cedillo\desktop\nodohash.h
+
+1544398367 source:c:\users\ernesto cedillo\documents\estructura de datos\trabajos en clase\tablas-hash\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<time.h>
+	"TablaHash.h"
+
+1527780174 c:\users\ernesto cedillo\documents\estructura de datos\trabajos en clase\tablas-hash\tablahash.h
+	"NodoHash.h"
+
+1527732698 c:\users\ernesto cedillo\documents\estructura de datos\trabajos en clase\tablas-hash\nodohash.h
+
